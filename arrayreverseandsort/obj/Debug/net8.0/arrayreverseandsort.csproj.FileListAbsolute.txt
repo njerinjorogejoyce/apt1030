@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\arrayreverseandsort\bin\Debug\net8.0\arrayreverseandsort.exe
+C:\Users\USER\Desktop\c++\arrayreverseandsort\bin\Debug\net8.0\arrayreverseandsort.deps.json
+C:\Users\USER\Desktop\c++\arrayreverseandsort\bin\Debug\net8.0\arrayreverseandsort.runtimeconfig.json
+C:\Users\USER\Desktop\c++\arrayreverseandsort\bin\Debug\net8.0\arrayreverseandsort.dll
+C:\Users\USER\Desktop\c++\arrayreverseandsort\bin\Debug\net8.0\arrayreverseandsort.pdb
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.dll
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\refint\arrayreverseandsort.dll
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.pdb
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\arrayreverseandsort.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\arrayreverseandsort\obj\Debug\net8.0\ref\arrayreverseandsort.dll

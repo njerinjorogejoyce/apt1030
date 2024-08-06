@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\stringchallenge\bin\Debug\net8.0\stringchallenge.exe
+C:\Users\USER\Desktop\c++\stringchallenge\bin\Debug\net8.0\stringchallenge.deps.json
+C:\Users\USER\Desktop\c++\stringchallenge\bin\Debug\net8.0\stringchallenge.runtimeconfig.json
+C:\Users\USER\Desktop\c++\stringchallenge\bin\Debug\net8.0\stringchallenge.dll
+C:\Users\USER\Desktop\c++\stringchallenge\bin\Debug\net8.0\stringchallenge.pdb
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.dll
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\refint\stringchallenge.dll
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.pdb
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\stringchallenge.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\stringchallenge\obj\Debug\net8.0\ref\stringchallenge.dll

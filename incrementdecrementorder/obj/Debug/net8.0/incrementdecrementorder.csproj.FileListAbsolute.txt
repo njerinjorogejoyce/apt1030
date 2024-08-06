@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\incrementdecrementorder\bin\Debug\net8.0\incrementdecrementorder.exe
+C:\Users\USER\Desktop\c++\incrementdecrementorder\bin\Debug\net8.0\incrementdecrementorder.deps.json
+C:\Users\USER\Desktop\c++\incrementdecrementorder\bin\Debug\net8.0\incrementdecrementorder.runtimeconfig.json
+C:\Users\USER\Desktop\c++\incrementdecrementorder\bin\Debug\net8.0\incrementdecrementorder.dll
+C:\Users\USER\Desktop\c++\incrementdecrementorder\bin\Debug\net8.0\incrementdecrementorder.pdb
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.dll
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\refint\incrementdecrementorder.dll
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.pdb
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\incrementdecrementorder.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\incrementdecrementorder\obj\Debug\net8.0\ref\incrementdecrementorder.dll

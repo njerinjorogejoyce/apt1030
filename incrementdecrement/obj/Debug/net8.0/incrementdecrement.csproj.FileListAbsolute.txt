@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\incrementdecrement\bin\Debug\net8.0\incrementdecrement.exe
+C:\Users\USER\Desktop\c++\incrementdecrement\bin\Debug\net8.0\incrementdecrement.deps.json
+C:\Users\USER\Desktop\c++\incrementdecrement\bin\Debug\net8.0\incrementdecrement.runtimeconfig.json
+C:\Users\USER\Desktop\c++\incrementdecrement\bin\Debug\net8.0\incrementdecrement.dll
+C:\Users\USER\Desktop\c++\incrementdecrement\bin\Debug\net8.0\incrementdecrement.pdb
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.dll
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\refint\incrementdecrement.dll
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.pdb
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\incrementdecrement.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\incrementdecrement\obj\Debug\net8.0\ref\incrementdecrement.dll

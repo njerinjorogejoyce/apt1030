@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\arrayclear\bin\Debug\net8.0\arrayclear.exe
+C:\Users\USER\Desktop\c++\arrayclear\bin\Debug\net8.0\arrayclear.deps.json
+C:\Users\USER\Desktop\c++\arrayclear\bin\Debug\net8.0\arrayclear.runtimeconfig.json
+C:\Users\USER\Desktop\c++\arrayclear\bin\Debug\net8.0\arrayclear.dll
+C:\Users\USER\Desktop\c++\arrayclear\bin\Debug\net8.0\arrayclear.pdb
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.dll
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\refint\arrayclear.dll
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.pdb
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\arrayclear.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\arrayclear\obj\Debug\net8.0\ref\arrayclear.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\c++\anotherarraychallenge\bin\Debug\net8.0\anotherarraychallenge.exe
+C:\Users\USER\Desktop\c++\anotherarraychallenge\bin\Debug\net8.0\anotherarraychallenge.deps.json
+C:\Users\USER\Desktop\c++\anotherarraychallenge\bin\Debug\net8.0\anotherarraychallenge.runtimeconfig.json
+C:\Users\USER\Desktop\c++\anotherarraychallenge\bin\Debug\net8.0\anotherarraychallenge.dll
+C:\Users\USER\Desktop\c++\anotherarraychallenge\bin\Debug\net8.0\anotherarraychallenge.pdb
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.AssemblyInfo.cs
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.dll
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\refint\anotherarraychallenge.dll
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.pdb
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\anotherarraychallenge.genruntimeconfig.cache
+C:\Users\USER\Desktop\c++\anotherarraychallenge\obj\Debug\net8.0\ref\anotherarraychallenge.dll
